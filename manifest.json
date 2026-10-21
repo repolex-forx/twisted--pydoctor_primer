@@ -1,0 +1,34 @@
+{
+  "manifest_version": "1.0",
+  "org": "twisted",
+  "repo": "pydoctor_primer",
+  "versions": [
+    {
+      "commit": "8f597cfad43c64e0f6e1546cd9df39fd0771bf44",
+      "parsed_at": "2026-10-21T22:23:52.262454+00:00",
+      "filetree": "filetree/8f597cfad43c64e0f6e1546cd9df39fd0771bf44.nq.gz",
+      "blobs": [
+        "blob/9204538c58d722d44d363707a2e4aa15bc1a5e7a.nq.gz",
+        "blob/37d72f9a8fbed984dc5aa6349a16892fb0c2f5d6.nq.gz",
+        "blob/6a000697b75bae14aaca6692a4a569afefdccae1.nq.gz",
+        "blob/d161add17252f0e90c88ba9d547e5e9b29ba257e.nq.gz",
+        "blob/bd3ecd1fff93f49c1eacf310350d433b8e59d021.nq.gz",
+        "blob/a979a4df564b5bde2abd6d3552069ce8b516f1fc.nq.gz",
+        "blob/5030243e7a58272c84c8385dbd3404bc5bb0ae23.nq.gz",
+        "blob/7a806d8e554663fe6495f55ebba9c64f9ddbd9c1.nq.gz",
+        "blob/bb7159099d532395219ec212cc7261c9bc1af410.nq.gz",
+        "blob/e598b6976c95167af891cfafa114a3b95c1e5631.nq.gz",
+        "blob/94a87132f671a1b3dceddb009afc4b0a0e46e157.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/b2029e5aa7ad6bc87468f76be2e7697ef56dd98a.nq.gz",
+        "blob/fa8c06f0bccce947d54fec45e23acb84b28579dd.nq.gz",
+        "blob/b87fec1a1c0a084e934ef2def2f44aeb76fafbe6.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
