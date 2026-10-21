@@ -1,0 +1,7 @@
+[2026-10-21T22:24:37Z] === AST ITERATION 1 START | repo=twisted/pydoctor_primer sha=8f597cfa ===
+[2026-10-21T22:24:37Z] [iter=1] PHASE START: ast repo=twisted/pydoctor_primer sha=8f597cfa
+[2026-10-21T22:24:37Z] [iter=1] Building AST aggregate chunks
+[2026-10-21T22:24:42Z] [iter=1] AST chunks built count=1 triples=50699
+[2026-10-21T22:24:42Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/8f597cfad43c64e0f6e1546cd9df39fd0771bf44/.complete
+[2026-10-21T22:24:42Z] [iter=1] PHASE END: ast elapsed_s=5 elapsed_min=0.1
+[2026-10-21T22:24:42Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json

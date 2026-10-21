@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/twisted/pydoctor_primer/commit/8f597cfad43c64e0f6e1546cd9df39fd0771bf44",
       "git:hexsha": "8f597cfad43c64e0f6e1546cd9df39fd0771bf44",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
